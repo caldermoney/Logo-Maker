@@ -1,0 +1,5 @@
+
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="150" cy="100" r="50" fill="#927" />
+        <text x="50%" y="55%" text-anchor="middle" fill="purple" font-size="24">TLO</text>
+    </svg>
